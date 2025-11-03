@@ -22,7 +22,7 @@ Before cleaning and tranforming:
 
 <img width="645" height="284" alt="Raw dataset before cleaning" src="https://github.com/user-attachments/assets/9837d169-7aaa-4dfd-a937-8b9937a54c90" />
 
-* The raw dataset contained missing values, inconsistent formatting, and redundant columns that needed to be standardized before analysis.
+* The raw dataset contained missing values, inconsistent formatting, and redundant columns that needed to be standardized before analysis
 
 After cleaning and transforming:
 
@@ -37,10 +37,10 @@ After cleaning and transforming:
 
 # Key Insights & Findings
 
-* Employees with lower salaries and shorter tenure showed higher attrition rates.
-* Certain job roles such as Research scientists experienced significantly higher turnover compared to others.
-* Younger age groups and employees with a life science or medical background are more likely to leave.
-* Attrition trends highlight opportunities to provide actionable insights to support HR in improving retention strategies. 
+* Employees with lower salaries and shorter tenure showed higher attrition rates
+* Certain job roles such as Research scientists experienced significantly higher turnover compared to others
+* Younger age groups and employees with a life science or medical background are more likely to leave
+* Attrition trends highlight opportunities to provide actionable insights to support HR in improving retention strategies
 
 
 
