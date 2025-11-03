@@ -35,7 +35,12 @@ After cleaning and transforming:
 
 <img width="1152" height="646" alt="image" src="https://github.com/user-attachments/assets/9099f7d2-3718-431c-9e4d-17d9989be16c" />
 
+# Key Insights & Findings
 
+* Employees with lower salaries and shorter tenure showed higher attrition rates.
+* Certain job roles such as Research scientists experienced significantly higher turnover compared to others.
+* Younger age groups and employees with a life science or medical background are more likely to leave.
+* Attrition trends highlight opportunities to provide actionable insights to support HR in improving retention strategies. 
 
 
 
